@@ -73,7 +73,7 @@ makefile
 
 
 ## Contact
-- For any questions or feedback, please contact: [9760500171](https://www.linkedin.com/in/yogesh-srivastava-1655a324a/)
+- For any questions or feedback, please contact:(https://www.linkedin.com/in/yogesh-srivastava-1655a324a/)
 
 - Author: Yogesh Srivastava
 - Email: yogeshshrivastav1234@gmail.com
